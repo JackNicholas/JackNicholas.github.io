@@ -6,8 +6,7 @@ title: "Testing jrn-ebo home page"
 ---
 
 
-
-        # Testing markdown etc
+# Testing markdown etc
         
   this is a test
   
