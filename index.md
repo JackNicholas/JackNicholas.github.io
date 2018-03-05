@@ -1,14 +1,14 @@
 ---
 
 layout: default
-title: "Testing jrn-ebo home page"
+title: "Jack Nicholas: home"
 
 ---
 
 
 # Testing markdown etc
         
-  this is a test
+  # Jack Nicholas: writing, notes, links, about, etc. 
   
   {{ page.title }}
   
