@@ -44,14 +44,14 @@ I feel there is another project cycle, a real cycle, yet to be discovered.
 
 ## References
 
-* <http://www.barrypopik.com/index.php/new\_york\_city/entry/six\_phases\_of\_a\_project\_enthusiasm\_disillusionment\_panic/>
+* <http://www.barrypopik.com/index.php/new_york_city/entry/six_phases_of_a_project_enthusiasm_disillusionment_panic/>
 * <http://en.wikipedia.org/wiki/Barry\_Popik>
 * <http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp>
 * <http://www.gartner.com/analyst/6543>
 * <http://blogs.gartner.com/hypecyclebook/2008/10/12/official-book-launch-at-symposium-this-week/>
 * <http://blog.allstream.com/the-woman-who-created-gartners-hype-cycle-has-a-powerfully-simple-innovation-tip-for-cios/>
-* <http://www.slate.com/articles/technology/history\_of\_innovation/2014/06/how\_the\_hype\_cycle\_explains\_moocs\_big\_data\_vr\_and\_google\_glass.html>
-* <https://en.wikipedia.org/wiki/Hype\_cycle>
+* <http://www.slate.com/articles/technology/history_of_innovation/2014/06/how_the_hype_cycle_explains_moocs_big_data_vr_and_google_glass.html>
+* <https://en.wikipedia.org/wiki/Hype_cycle>
 
 
 
